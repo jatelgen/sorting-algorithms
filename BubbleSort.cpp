@@ -5,7 +5,6 @@ using namespace std;
 
 const int INF = numeric_limits<int>::infinity();
 
-
 /*
     argc defines size of the array and all
     inputs to the command line after are the
